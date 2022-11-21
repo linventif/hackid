@@ -1,6 +1,10 @@
 # Requirements:
 
-To lunch the program, you need to have installed the default-jdk and ijava.
+To lunch the program, you will need to install the following packages:
+
+- [Java Development Kit](https://www.oracle.com/java/technologies/downloads/)
+
+- [IJava](https://www.iut-info.univ-lille.fr/~yann.secq/ijava/)
 
 # How to lunch the program:
 
