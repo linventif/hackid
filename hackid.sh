@@ -1,2 +1,2 @@
-echo hello world
-gnome-mines
+cd ijava
+java -cp ../ressources/program.jar:. hackid

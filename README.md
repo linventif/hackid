@@ -6,7 +6,7 @@ To lunch the program, you will need to install the following packages:
 
 - [IJava](https://www.iut-info.univ-lille.fr/~yann.secq/ijava/)
 
-# How to lunch the program:
+# How to install and lunch the game:
 
 1. Download the project on your computer
 
@@ -17,6 +17,14 @@ To lunch the program, you will need to install the following packages:
 4. Launch the file "hackid.sh".
 
 5. Enjoy!
+
+# What is Hackid?
+
+HacKid is an educational software for learning bash commands and typing skills on the hacking theme.
+The goal is to hack enemies by entering the fastest and correctly bash commands displayed on the screen.
+When you hack an enemy, you will earn points and you will be able to buy new tools, materials.
+You will also be able to buy new skins for your terminal.
+More you will play, more you will earn points and more difficult the game will be.
 
 # License
 
