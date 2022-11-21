@@ -26,6 +26,12 @@ When you hack an enemy, you will earn points and you will be able to buy new too
 You will also be able to buy new skins for your terminal.
 More you will play, more you will earn points and more difficult the game will be.
 
+## How work difficulty?
+
+The difficulty of the game is based on the statistics of the player.
+The statistics are : the number of points, the number of enemies hacked, the number of tools bought, the median time of answers, the number of errors ...
+More good you are, more the game will be difficult.
+
 # License
 
 Shield: [![CC BY-NC-SA 4.0][cc-by-nc-sa-shield]][cc-by-nc-sa]
