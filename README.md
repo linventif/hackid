@@ -8,13 +8,15 @@ To lunch the program, you will need to install the following packages:
 
 # How to lunch the program:
 
-1. Open a terminal and go to the folder where you have downloaded the program.
+1. Download the project on your computer
 
-2. Type the following command:
+2. Unzip the file "hackid-main.zip".
 
-```bash
-java -jar "JupyterNotebook.jar"
-```
+3. Go to the folder "hackid-main".
+
+4. Launch the file "hackid.sh".
+
+5. Enjoy!
 
 # License
 
